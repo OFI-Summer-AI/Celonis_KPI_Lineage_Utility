@@ -38,7 +38,7 @@ Used to connect to the Celonis tenant.
 Example:
 
 ```text
-https://abinbev-prod-eu-3.celonis.cloud
+https://abi-prd-eu-12.celonis.cloud
 ```
 
 Without this:
